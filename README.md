@@ -4,9 +4,13 @@ Tarea 3 entregable
 1- Primero tenemos que crear nuestro repositorio y para ello debemos ir a nuestro perfil y entramos en "your repositories" y una vez que estemos dentro, le damos a "new" y lo creamos
 
 
-2-Ahora debemos crear el repositorio.
+2- Ahora debemos crear el repositorio.
 En repository name ponemos el nombre que queramos y en la descripcion tambien lo que queramos.
 Pon la privacidad que prefieras y añade el Readme.md
 
 
-3-
+3- A continuación debemos crear una "branch" llamada "readme-edits" y debemos editarla de la siguiente forma:
+
+
+
+4- 
