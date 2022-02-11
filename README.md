@@ -10,6 +10,7 @@ Tarea 3 entregable
 En "repository name" ponemos el nombre que queramos y en la descripcion tambien lo que queramos.
 Pon la privacidad que prefieras y añade el "Readme.md".
 
+![repository](https://github.com/hectorherediavidal/hello-world-2/blob/readme-edits/img/Captura%20de%20pantalla%20(13).png "")
 
 3- A continuación debemos crear una "branch" llamada "readme-edits" y debemos escribir un poco sobre nosotros en el "readme.md" de la rama "readme-edits".
 
