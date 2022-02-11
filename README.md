@@ -13,4 +13,8 @@ Pon la privacidad que prefieras y añade el Readme.md
 
 
 
-4- 
+4- Ahora debemos hacer un "Pull request".
+-Debemos ir a la parte superior y buscar una opción llamada "Pull requests".
+-Hacemos click en "New Request"
+-Ahora debemos comparar "Readme-edits" con "Main"
+-Por último le damos a "Create pull request" y debemos poner un titulo y una breve descripción de los cambios.
