@@ -26,7 +26,7 @@ Pon la privacidad que prefieras y añade el "Readme.md".
 
 ![pull1](https://github.com/hectorherediavidal/hello-world-2/blob/main/img/Captura%20de%20pantalla%20(17)_LI.jpg "")
 
-![pull2](https://github.com/hectorherediavidal/hello-world-2/blob/main/img/Captura%20de%20pantalla%20(18)_LI.jpg "")
+![pull2](https://github.com/hectorherediavidal/hello-world-2/blob/readme-edits/img/Captura%20de%20pantalla%20(17).png "")
 
 5-Ya solo nos queda un último paso, debemos dar click en "Merge pull request" para mostrar los cambios en "main".
 
