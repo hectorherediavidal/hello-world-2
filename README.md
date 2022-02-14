@@ -1,33 +1,40 @@
 # hello-world-2
 Tarea 3 entregable
 
-1- Primero tenemos que crear nuestro repositorio y para ello debemos ir a nuestro perfil y entramos en "your repositories" y una vez que estemos dentro, le damos a "new" y lo creamos.
+# Primero necesitamos tener un repositorio creado.
+   Una vez que lo tengamos, en la consola de git debemos usar el siguiente comando:
+   git clone "nuestra url del repositiorio de git
+   
+   
+# Una vez que hayamos exportado nuestro repositorio desde Github, tenemos que ir al repositorio desde la consola de Git:
+    cd repo
+    
 
-![new](https://github.com/hectorherediavidal/hello-world-2/blob/readme-edits/img/Captura%20de%20pantalla%20(12)_LI.jpg "")
-
-
-2- Ahora debemos crear el repositorio.
-En "repository name" ponemos el nombre que queramos y en la descripcion tambien lo que queramos.
-Pon la privacidad que prefieras y añade el "Readme.md".
-
-![repository](https://github.com/hectorherediavidal/hello-world-2/blob/readme-edits/img/Captura%20de%20pantalla%20(13).png "")
-
-3- A continuación debemos crear una "branch" llamada "readme-edits" y debemos escribir un poco sobre nosotros en el "readme.md" de la rama "readme-edits".
-
-![branch](https://github.com/hectorherediavidal/hello-world-2/blob/main/img/Captura%20de%20pantalla%20(15).png "")
-![branch](https://github.com/hectorherediavidal/hello-world-2/blob/readme-edits/img/Captura%20de%20pantalla%20(21).png "")
-
-4- Ahora debemos hacer un "Pull request".
--Debemos ir a la parte superior y buscar una opción llamada "Pull requests".
--Hacemos click en "New Request".
--Ahora debemos comparar "Readme-edits" con "Main".
--Por último le damos a "Create pull request" y debemos poner un titulo y una breve descripción de los cambios.
-
-
-![pull1](https://github.com/hectorherediavidal/hello-world-2/blob/main/img/Captura%20de%20pantalla%20(17)_LI.jpg "")
-
-![pull2](https://github.com/hectorherediavidal/hello-world-2/blob/readme-edits/img/Captura%20de%20pantalla%20(17).png "")
-
-5-Ya solo nos queda un último paso, debemos dar click en "Merge pull request" para mostrar los cambios en "main".
-
-![merge](https://github.com/hectorherediavidal/hello-world-2/blob/main/img/Captura%20de%20pantalla%20(19)_LI.jpg "")
+# Ahora debemos crear una nueva "branch" en nuestro repositorio:
+    git branch "nombre que queramos" 
+    Ejemplo: git branch branchprueba
+    
+    
+# Cambiamos a la "branch que acabamos de crear":
+    git checkout "nombre que hemos elegido
+    Ejemplo: git checkout branchprueba
+    
+    
+# Ahora crea un archivo cualquiera y escribe cualquier cosa:
+    touch file1.md
+    
+    Y para editarlo: nano file1.md
+    
+    
+ # A continuación debemos añadir el archivo modificado del paso anterior:
+    git add "nombre del archivo"
+    Ejemplo: git add file1.md
+    
+    
+ # Ahora vamos a confirmar lo que hemos añadido y a dejar un comentario:
+    git commit -m "lo que queramos"
+    
+    
+ # Para acabar, debemos exportar a Github el trabajo hecho desde la consola de Git
+    git push --set-upstream origin "nombre de nuestra branch"
+    Ejemplo: git push --set-upstream origin branchprueba
