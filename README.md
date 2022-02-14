@@ -4,7 +4,7 @@ Tarea 3 entregable
 # Primero necesitamos tener un repositorio creado.
 
 # Una vez que lo tengamos, en la consola de git debemos usar el siguiente comando:
-    git clone "nuestra url del repositiorio de git
+    git clone "nuestra url del repositiorio de git"
    
    
 # Una vez que hayamos exportado nuestro repositorio desde Github, tenemos que ir al repositorio desde la consola de Git:
