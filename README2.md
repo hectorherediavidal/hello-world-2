@@ -5,7 +5,7 @@ Tarea 3 entregable
 
    ![5](https://github.com/hectorherediavidal/hello-world-2/blob/branchprueba/img/15.PNG)
 
-# Primero debemos movernos al repositorio de Git en el que queremos trabajar.
+# Vamos a movernos al repositorio de Git en el que queremos trabajar.
     cd "nombre del repositorio"
     Ejemplo: cd hello-world-2/
    ![16](https://github.com/hectorherediavidal/hello-world-2/blob/branchprueba/img/16.PNG)
